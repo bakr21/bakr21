@@ -45,11 +45,13 @@ Hi 👋, I'm Ahmed ZAki Bakr <br>🌟Aspiring Backend Developer |💻 Passionate
 ![](https://github-contributor-stats.vercel.app/api?username=bakr21&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
+<img src="https://raw.githubusercontent.com/bakr21/bakr21/output/snake.svg" alt="Snake animation" />
+
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bakr21/count.svg?"  />
+</div>
 
 ###
 
